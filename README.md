@@ -5,3 +5,5 @@
 Vector space size: 512 [ref](https://unfoldai.com/images-to-vectors-using-vector-forge-and-clip/)
 
 # Image preprocessing
+
+File: `filter_downloaded_images.ipynb`
