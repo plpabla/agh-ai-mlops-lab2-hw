@@ -10,3 +10,7 @@
 # Image preprocessing
 
 File: `filter_downloaded_images.ipynb`
+
+# Main homework
+
+File: `main.ipynb`
